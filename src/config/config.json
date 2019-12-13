@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "default",
+    "password": "secret",
+    "database": "default",
+    "host": "localhost",
+    "dialect": "mariadb"
+  }
+}
